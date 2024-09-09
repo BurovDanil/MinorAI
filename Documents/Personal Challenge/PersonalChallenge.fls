@@ -1,4 +1,4 @@
-PWD /Users/danilburov/Desktop/Fontys/Semester5/MinorAI/Documents
+PWD /Users/danilburov/Desktop/Fontys/Semester5/MinorAI/Documents/Personal Challenge
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/web2c/texmf.cnf
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT PersonalChallenge.tex
@@ -44,16 +44,12 @@ INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT PersonalChallenge.pdf
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map
 INPUT PersonalChallenge.aux
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
-INPUT /opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
