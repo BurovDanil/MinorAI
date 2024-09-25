@@ -1,5 +1,5 @@
 \documentclass{article}
-
+\usepackage{hyperref}
 \title{My Personal Challenge}
 \author{Danil Burov}
 \date{\today}
@@ -10,17 +10,43 @@
 
 \section{Proposal}
 
+My personal challenge will be to create an AI model that predicts how a match between two
+MMA fighters will end up. Which round is the fight going to end, via what kind of stoppage. 
+The dataset I will use will be \href{https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics}{UFC dataset}.
+UFC is the biggest MMA organization in the world where the best of the best fighters strive to
+compete. I chose the dataset from the UFC and not some other organization because I do follow UFC
+and there is a lot of data regarding fighter statistics.
 
-The goal of my personal challenge will be to create a prediction model regarding MMA fights.
-The idea of the model will be to be able to estimate how a match up between two professional atheletes
-will end up. In order to ensure accuracy of the model I will scrape statistical data from the official website of the UFC,
-and from there I will store the data and train the model later. 
+\section{Societal impact}
+Using this model a fighter could evaluate what could be the reason the other fighter has a bigger
+chance of winning. My intention is eventually create an analytical tool that analyzes why a fighter 
+was defeated and what could be the possible solution for him to win the fight if they ever fight again.
 
-One of the issues I have noticed will be the legal aspect of my project. The project could be regarded as a betting system, where a person
-uses the model to bet on the fighter that the AI has said it is going to win. In order to prevent that I have the idea to make the model
-less accurate on purpose.
+\section{Investigative problem solving}
+There are a few problems that might occur with this project. One of them being the illegal usage of the
+AI model. My suspicion is that in the wrong hands the model could be use to bet on specific matches. In order 
+to address this issue I was advised to eventually write 'Disclaimer' which specifies the intended usage of the model. 
+Another potential solution would be to make the model intentionally less accurate to ensure that it cannot be used for betting.
 
-Another potential issue I see with this project is the legal aspect of it. It envolves getting personal data of the fighters, such as: Name, Height, Weight, Age, 
-Record, and statistical data on how the fighter finishes his fights and different record related data. To prevent any legal issues I will make sure that everybody has access
-to it and then I will store the data and teach the model.
+\section{Data preparation}
+As mentioned above I have already selected the dataset for the project. However, this dataset will not be copy-pasted into 
+the model. I will need to make sure that only active fighters are actually in the dataset to ensure that the data is clear. 
+As well as there are some 'null' values in the dataset and they will be cleared and formatted to ensure consistency.
+
+\section{Machine teaching}
+The dataset will be used to teach a machine to predict the outcome of a fight. In order to test if the model 
+is adequetly trained I will test it with existing fights that have already happened and see if the model does predict the outcome. This
+will be possible because I will not teach the model the history of all the UFC matches that have already happened but just fighter statistics.
+
+\section{Data visualization}
+In my personal project I will visualize correlations between different features. For example: "Does the win-lose ration of a fighter based 
+on their fightstyle or their age?, If you are a specific type of fighter do you have a higher percentage to win?".
+
+\section{Reporting}
+
+
+\section{Personal goal}
+My personal goal is to become comfortable and familiar with preparing data for modelling, including tasks such as cleaning, transforming,
+and structuring data to ensure that is can be used for machine learning algorithms. Involving handling missing values, converting data types.
+
 \end{document}
