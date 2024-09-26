@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727271909 "PersonalChallenge.tex" "PersonalChallenge.pdf" "PersonalChallenge" 1727271910 0
+["pdflatex"] 1727342174 "PersonalChallenge.tex" "PersonalChallenge.pdf" "PersonalChallenge" 1727342175 0
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1678549815 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1678549815 4609045 74543da1ab9350ba886fce0af49a2cfd ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1678549815 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -52,9 +52,9 @@
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/url/url.sty" 1678549815 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/web2c/texmf.cnf" 1678549815 40748 4081c8bc921e56c865f975bd762e388c ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884066 53a9aad02a5b14fbfbcc78ec177fdd6d ""
-  "PersonalChallenge.aux" 1727271910 1454 699bdac5791c2ef05a74937809d64be5 "pdflatex"
-  "PersonalChallenge.out" 1727271910 985 fbdd4ce6c5cae8670fae41addccbebea "pdflatex"
-  "PersonalChallenge.tex" 1727271908 2985 6efeab10e0717f3e440614e11b718879 ""
+  "PersonalChallenge.aux" 1727342175 1454 699bdac5791c2ef05a74937809d64be5 "pdflatex"
+  "PersonalChallenge.out" 1727342175 985 fbdd4ce6c5cae8670fae41addccbebea "pdflatex"
+  "PersonalChallenge.tex" 1727342173 3287 9d2b23687e35c8d528073322c67cabd7 ""
   (generated)
   "PersonalChallenge.aux"
   "PersonalChallenge.log"
