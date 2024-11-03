@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  27 SEP 2024 23:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  3 NOV 2024 20:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -199,7 +199,7 @@ Package hyperref Info: Link coloring OFF on input line 6.
 \@outlinefile=\write3
 \openout3 = `PDR.out'.
 
-<images/fontyslogo.png, id=168, 301.125pt x 163.61125pt>
+<images/fontyslogo.png, id=176, 301.125pt x 163.61125pt>
 File: images/fontyslogo.png Graphic file (type png)
 <use images/fontyslogo.png>
 Package pdftex.def Info: images/fontyslogo.png  used on input line 12.
@@ -215,701 +215,79 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 ...\numberline {10}Retrospect}{8}{section.10}
+l.39 ...9.2}Second evaluation}{11}{subsection.9.2}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `PDR.toc'.
 
  [2]
-Overfull \hbox (1.08278pt too wide) in paragraph at lines 36--45
+Overfull \hbox (1.08278pt too wide) in paragraph at lines 36--40
 \OT1/cmr/m/n/10 The stu-dent is able to ap-proach the con-text and im-pact of their own AI project(s)
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-
- []
-
-
-./PDR.tex:52: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 \subsection
-                {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:53: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.53 \subsection
-                {Final evaluaton}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:54: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--63
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
-
- []
-
-
-./PDR.tex:73: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.73 \subsection
-                {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:74: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74 \subsection
-                {Final evaluaton}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:75: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--90
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
-
- []
-
-
-./PDR.tex:97: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.97 \subsection
-                {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:98: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 \subsection
-                {Final evaluaton}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:99: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--108
-
- []
-
-
-./PDR.tex:109: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.109 I
-       n the first weeks of the minor I explored a website called 'Teachable...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[5]
-
-./PDR.tex:113: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.113 \subsection
-                 {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:114: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 \subsection
-                 {Final evaluaton}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:115: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 \underline
-                {\textbf{Self assesment: Orientating}}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
-
- []
-
-
-./PDR.tex:126: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.126 I
-        have not yet done anything related with data visualization. I have o...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--128
-
- []
-
-
-./PDR.tex:129: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.129 \subsection
-                 {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:130: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130 \subsection
-                 {Final evaluation}\\\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:130: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130 \subsection{Final evaluation}\\\\
-                                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:131: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.131 \section
-              {Learning outcome 6 - Reporting}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--139
-
- []
-
-[6]
-
-./PDR.tex:145: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.145 \underline
-                {\textbf{Self assesment: Beginning}}\\\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-./PDR.tex:147: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.147 \subsection
-                 {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:148: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.148 \subsection
-                 {Final evaluaton}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:149: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.149 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--157
-
- []
-
-
-./PDR.tex:158: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.158 E
-       ver since the minor started I have attended all lectures regarding th...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
-
- []
-
-
-./PDR.tex:162: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.162 \subsection
-                 {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:163: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 \subsection
-                 {Final evaluaton}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:164: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.164 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--173
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--173
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--173
-
- []
-
-[7]
-
-./PDR.tex:174: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.174 I
-       n the first 4 weeks I have managed to choose a dataset for my own per...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--178
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--178
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--178
-
- []
-
-
-./PDR.tex:179: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.179 \subsection
-                 {Third evaluation}\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:180: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.180 \subsection
-                 {Final evaluaton}\\\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:180: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.180 \subsection{Final evaluaton}\\\\
-                                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:181: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:182: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182 \section{Retrospect}\\\\
-                               %ONLY IN FINAL VERSION
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:183: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.183 \section
-              {Conclusion}\\\\ %ONLY IN FINAL VERSION
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:183: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.183 \section{Conclusion}\\\\
-                               %ONLY IN FINAL VERSION
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./PDR.tex:184: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.184 \section
-              {Appendix}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<images/Feedback_Societal_Impact.png, id=260, 371.3875pt x 536.0025pt>
+<images/Feedback_Societal_Impact.png, id=240, 371.3875pt x 536.0025pt>
 File: images/Feedback_Societal_Impact.png Graphic file (type png)
 <use images/Feedback_Societal_Impact.png>
-Package pdftex.def Info: images/Feedback_Societal_Impact.png  used on input line 188.
-(pdftex.def)             Requested size: 371.38658pt x 536.00119pt.
+Package pdftex.def Info: images/Feedback_Societal_Impact.png  used on input line 51.
+(pdftex.def)             Requested size: 345.0pt x 497.9292pt.
+[3] [4 <./images/Feedback_Societal_Impact.png>] [5] [6]
+<images/FeedbackTeachableMachines.png, id=262, 934.49126pt x 196.735pt>
+File: images/FeedbackTeachableMachines.png Graphic file (type png)
+<use images/FeedbackTeachableMachines.png>
+Package pdftex.def Info: images/FeedbackTeachableMachines.png  used on input line 140.
+(pdftex.def)             Requested size: 345.0pt x 72.6317pt.
+ [7 <./images/FeedbackTeachableMachines.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 170--174
 
-Overfull \hbox (26.38658pt too wide) in paragraph at lines 188--189
- [][] 
+ []
+
+<images/Stagri_correlation_matrix.png, id=268, 1016.79875pt x 689.57625pt>
+File: images/Stagri_correlation_matrix.png Graphic file (type png)
+<use images/Stagri_correlation_matrix.png>
+Package pdftex.def Info: images/Stagri_correlation_matrix.png  used on input line 175.
+(pdftex.def)             Requested size: 345.0pt x 233.9688pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 175--177
+[][]
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 191--195
+
+ []
+
+[9 <./images/Stagri_correlation_matrix.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 197--204
+
  []
 
 
-LaTeX Warning: Float too large for page by 9.94563pt on input line 191.
+Underfull \hbox (badness 10000) in paragraph at lines 197--204
+
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
 
-<images/TeachableMachineExample.png, id=262, 1412.27625pt x 812.03375pt>
-File: images/TeachableMachineExample.png Graphic file (type png)
-<use images/TeachableMachineExample.png>
-Package pdftex.def Info: images/TeachableMachineExample.png  used on input line 195.
-(pdftex.def)             Requested size: 345.0pt x 198.36145pt.
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8] [9 <./images/Feedback_Societal_Impact.png>] [10 <./images/TeachableMachineExample.png>] (./PDR.aux)
-
-Package rerunfilecheck Warning: File `PDR.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `PDR.out':
-(rerunfilecheck)             Before: 724EB56DD34957950498CD638AEF7FC8;6446
-(rerunfilecheck)             After:  1E3FE5F0018403E04F65B863CE074B63;6874.
+[10] [11] [12] (./PDR.aux)
+Package rerunfilecheck Info: File `PDR.out' has not changed.
+(rerunfilecheck)             Checksum: A1743CC20AC39F28E9E968D3552123CE;6824.
  ) 
 Here is how much of TeX's memory you used:
- 8227 strings out of 476025
- 133558 string characters out of 5779036
+ 8232 strings out of 476025
+ 133819 string characters out of 5779036
  1863388 words of memory out of 5000000
- 28550 multiletter control sequences out of 15000+600000
+ 28555 multiletter control sequences out of 15000+600000
  515056 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,349b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on PDR.pdf (11 pages, 1066435 bytes).
+Output written on PDR.pdf (13 pages, 690645 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 344 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 297 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 365 words of extra memory for PDF output out of 10000 (max. 10000000)
 

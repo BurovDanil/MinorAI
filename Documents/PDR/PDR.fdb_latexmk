@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727473347 "PDR.tex" "PDR.pdf" "PDR" 1727473355 2
+["pdflatex"] 1730661367 "PDR.tex" "PDR.pdf" "PDR" 1730661368 0
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1678549815 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1678549815 4609045 74543da1ab9350ba886fce0af49a2cfd ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1678549815 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -55,12 +55,13 @@
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/url/url.sty" 1678549815 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/web2c/texmf.cnf" 1678549815 40748 4081c8bc921e56c865f975bd762e388c ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884066 53a9aad02a5b14fbfbcc78ec177fdd6d ""
-  "PDR.aux" 1727473355 6505 96501f13f604fa5a21313dd0dca65a8e "pdflatex"
-  "PDR.out" 1727473355 6874 1e3fe5f0018403e04f65b863ce074b63 "pdflatex"
-  "PDR.tex" 1727473341 11631 df00c606d0a4431016fb47f45f9da400 ""
-  "PDR.toc" 1727473355 3646 aa9880a47a9bf4f7ed3e25feaee99581 "pdflatex"
+  "PDR.aux" 1730661368 5920 fc3ebc7c1a09b77ecb5eacede47c1ef0 "pdflatex"
+  "PDR.out" 1730661368 6824 a1743cc20ac39f28e9e968d3552123ce "pdflatex"
+  "PDR.tex" 1730661367 15610 7a29383bfe043a5d5ac914cbb8f157bc ""
+  "PDR.toc" 1730661368 3602 99fa11fff94d5c99a900f4cd414657a9 "pdflatex"
+  "images/FeedbackTeachableMachines.png" 1730660736 118973 891b31ed504657734708d4189f1d8404 ""
   "images/Feedback_Societal_Impact.png" 1727286020 151729 53e84158927ced7dba9e9220379ef1d8 ""
-  "images/TeachableMachineExample.png" 1727350201 917923 2386a4dc0893cc8a81f0e6ac4091acd8 ""
+  "images/Stagri_correlation_matrix.png" 1730659003 568004 c42775401b94cbb3a752122f24ecfce9 ""
   "images/fontyslogo.png" 1727338380 5884 83742bd154592f942bd96140c1d9d33d ""
   (generated)
   "PDR.aux"
