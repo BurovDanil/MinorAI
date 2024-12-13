@@ -1,0 +1,14 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Business understanding}{2}{section.2}%
+\contentsline {section}{\numberline {3}Data understanding}{2}{section.3}%
+\contentsline {section}{\numberline {4}Data preparation}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Deleting columns}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}One-Hot-Encoding}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Scalling}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Factorzing}{5}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Filling NaN values}{5}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Modeling}{6}{section.5}%
+\contentsline {section}{\numberline {6}Evaluation}{6}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{6}{section.7}%
+\contentsline {section}{\numberline {8}Appendix}{6}{section.8}%
