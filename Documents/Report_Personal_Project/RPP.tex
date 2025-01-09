@@ -83,20 +83,38 @@
   When the dataset was chosen it was known that many of the features will not be used for the purpose of the tool. All these features were dropped for a reason and in the 
   upcoming subsection it will be explained why. Initially the number of features was 118. After dropping the unnecessary features, the number was reduced to 49.\\\\ 
   These features were rankings, streak orientated, or keeping track of the fighters' decisions and win/lose streak, and other miscelanous features that are irrelevant.\\\\ 
-  The code for the feature removal can be found \href{fig:features_dropped}{\textbf{here}}
+  The code can be found below:\\
+  	\begin{figure}[H]
+  	\centering
+  	\includegraphics[width=1\textwidth]{images/Features_Dropped.png}
+  	\caption{Unnecessary features dropped}
+  \end{figure}
  \subsection{One-Hot-Encoding} %First explain what is one-hot-encoding, then explain why these features were one-hot-encoded and not factorized
   One-hot-encoding is used to trnasform categorical values into numberical values. In this case the 'Finish' feature had 5 different types of finished. When I one-hot-encode 
   the feature I get 5 different columns with all the possible finishes and every bout (each row in the dataset) has a true or false to the according finish. It is not a good idea 
   to factorize with that many different options because the model could develop bias towards the bigger numbers.\\\\ 
   One-hot-encoding was used not only to encode the 'Finish' feature but also the 'Stance' feature. 'Stance' had three possible values 'Southpaw', 'Ortohodox', 'Switch'.\\\\
-  The code for one-hot-encoding the 'Finish' feature can be seen \href{fig:One_hot_encoding_finish}{\textbf{here}}\\ 
-  The code for one-hot-encoding the 'Stance' feature can be seen \href{fig:One_hot_encoding_stance}{\textbf{here}}
+  The code for one-hot-encoding the 'Finish' feature can be found:\\
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/One_hot_encoding_finish.png}
+	\caption{One-Hot-Encoding 'Finish' feature}
+\end{figure}
+  The code for one-hot-encoding the 'Stance' feature can be found below:\\
+  \begin{figure}[H]
+  	\centering
+  	\includegraphics[width=1\textwidth]{images/One_hot_encodiong_Stance.png}
+  	\caption{One-Hot-Encoding 'Stance' feature}
+  \end{figure}
   \subsection{Scalling}
   In general all the features in the dataset need to be scalled to standard deviation. That is the reason why all the features that had percentage were scalled to a decimal to the first zero.\\\\ 
-  %Incorporate the feedback from Bas as well
-  %Add the code for the features that were scalled down.
   Additionally I converted the 'Weight' feature from LBS to KG, because it is more convenient for me. \\\\
-  The code can be found \href{fig:converting_weight}{\textbf{here}}
+  The code can be found below:\\
+  \begin{figure}[H]
+  	\centering
+  	\includegraphics[width=1\textwidth]{images/Conversion_weight_lbs_to_kg.png}
+  	\caption{Converting the 'Weight' feature from lbs to kg}
+  \end{figure}
   \subsection{Factorzing}
   For some features one-hot-encoding is not exactly needed. In this case it was decided to factorize values that can have only two possible values. However in some cases 
   it could be better to even use one-hot-encoding with these features as well because some models can deal with more features more efficiently. The reason these features were 
@@ -105,8 +123,19 @@
   Since the dataset contains both genders the feature that was factorized is the 'Gender' where the 0 is \underline{man} and the 1 is a \underline{woman}.\\\\
   Another feature that has only two values is the 'Winner' feature, which has either red or blue, depending on who won the fight (Red and Blue are universal colours used to indicate the 
   corner that fighter fought from.). When factorized, 0 corresponds to \underline{Red} and 1 corresponds to \underline{Blue}. \\\\ 
-  \href{fig:factorizing_gender}{'Gender' feature code for factorizing}\\\\
-  \href{fig: factorizing_winner}{'Winner' feature code for factorizing}\\\\
+  Code for factorizing the 'Gender' feature can be found below:\\
+  \begin{figure}[H]
+  	\centering
+  	\includegraphics[width=1\textwidth]{images/Factorizing_Gender.png}
+  	\caption{Factorizing the 'Gender' feature}
+  \end{figure}
+  Code for factorizing the 'Winner' feature can be found below:\\
+  \begin{figure}[H]
+  	\centering
+  	\includegraphics[width=1\textwidth]{images/Factorizing_Winner.png}
+  	\caption{Factorizing the 'Winner' feature}
+  	\label{fig:factorizing_winner}
+  \end{figure}
   \subsection{Filling NaN values}
   The dataset has \textbf{415296} total entries from all features from which \textbf{19601} are NULL values. There were three options how to deal with all the different values. 
   First was to fill in the missing values with 0 or specific string text wherever is needed. Second was to delete the rows that had these NULL values. However, 
@@ -114,7 +143,13 @@
   values. This option was not developed. \\\\ 
   Most of the features did not have a significant impact on the accuracy of the model that is why they were filled with 0. Most of the rows that had NULL features were both from the 
   red and blue corner (e.g. The 'RedOdds' feature and 'BlueOdds' feature in the row were both NULL so filling them with 0 just fixes the empty value)\\\\ 
-  Code for \nameref{fig:filling_nan_values}
+  Code for filling the NaN values can be found below:
+  \begin{figure}[H]
+  	\centering
+  	\includegraphics[width=1\textwidth]{images/Filling_NaN_Values.png}
+  	\caption{filling the NaN values}
+  	\label{fig:filling_nan_values}
+  \end{figure}
 \section{Modelling}
 Choosing a model for the data was difficult given the reason that the project idea was to not predict if a fighter is going to win (0 or 1), but rather see the likelihood of a fighter winning in three different outcomes against the opponent. Knowing this, logistic regression seemed like a good fit for the project.\\\\
 Logistic regression under the hood is a classification model that uses the Sigmoid function. Although, given its classification nature, it provides the probability output between 0 and 1.\\\\
@@ -127,63 +162,15 @@ Here will be displayed the scores of training without any hyperparameter tuning 
 \subsection{Optimization}
 Logistic regression was used to train four models with four different target variable. However on all of them this bias towards the red corner was persistent. In order to mitigate this bias, balancing the set was needed. Hyperparameter tuning, oversampling and undersampling were performed on the datasets and then the data was trained again using Logistic regression. Using undersampling, the accuracy got better and the bias was mitigated better than the rest of them. Unfortunately, the other techniques didn't really improve the accuracy nor mitigated the red corner winning prediction.\\\\
 The different scores of the optimization of the dataset will be displayed below.\\\\
+\newpage
 	{\large \textbf{Hyperparameter Tuning Score}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/Hyperparameter_tuning_score.png}\\\\
 
 	{\large \textbf{Oversampling Score}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/Oversamping_score.png}\\\\
-
+\newpage
 	{\large \textbf{Undersampling Score}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/Undersampling_score.png}\\\\
 \section{Conclusion}
 Overall, a good accuracy was achieved of \textbf{0.66\%} an increase from the raw modeling of logistic regression 0.63\%. It is very difficult to predict an outcome of a match or which fighter will win. There are many attributes that need to be taken into account. There is a possible further continuation of the project, looking into betting odds. I personally think that this could be a good direction of the project.\\
-\section{Appendix}
-	\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/Features_Dropped.png}
-	\caption{Unnecessary features dropped}
-	\label{fig:features_dropped}
-	\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/One_hot_encoding_finish.png}
-	\caption{One-Hot-Encoding 'Finish' feature}
-	\label{fig:One_hot_encoding_finish}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/One_hot_encodiong_Stance.png}
-	\caption{One-Hot-Encoding 'Stance' feature}
-	\label{fig:One_hot_encoding_stance}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/Factorizing_Gender.png}
-	\caption{Factorizing the 'Gender' feature}
-	\label{fig:factorizing_gender}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/Factorizing_Winner.png}
-	\caption{Factorizing the 'Winner' feature}
-	\label{fig:factorizing_winner}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/Conversion_weight_lbs_to_kg.png}
-	\caption{Converting the 'Weight' feature from lbs to kg}
-	\label{fig:converting_weight}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{images/Filling_NaN_Values.png}
-	\caption{filling the NaN values}
-	\label{fig:filling_nan_values}
-\end{figure}
 \end{document}

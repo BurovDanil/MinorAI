@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  9 JAN 2025 15:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  9 JAN 2025 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,7 +341,7 @@ Package hyperref Info: Link coloring OFF on input line 10.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<images/fontyslogo.png, id=56, 301.125pt x 163.61125pt>
+<images/fontyslogo.png, id=52, 301.125pt x 163.61125pt>
 File: images/fontyslogo.png Graphic file (type png)
 <use images/fontyslogo.png>
 Package pdftex.def Info: images/fontyslogo.png  used on input line 16.
@@ -431,7 +431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
 
 [2]
-<images/ToC_Data_cleaning.png, id=88, 287.57437pt x 146.79843pt>
+<images/ToC_Data_cleaning.png, id=83, 287.57437pt x 146.79843pt>
 File: images/ToC_Data_cleaning.png Graphic file (type png)
 <use images/ToC_Data_cleaning.png>
 Package pdftex.def Info: images/ToC_Data_cleaning.png  used on input line 77.
@@ -446,260 +446,283 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
  []
 
+<images/Features_Dropped.png, id=85, 1094.0875pt x 702.625pt>
+File: images/Features_Dropped.png Graphic file (type png)
+<use images/Features_Dropped.png>
+Package pdftex.def Info: images/Features_Dropped.png  used on input line 89.
+(pdftex.def)             Requested size: 345.0pt x 221.5639pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--87
+Underfull \hbox (badness 10000) in paragraph at lines 83--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--87
+Underfull \hbox (badness 10000) in paragraph at lines 83--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--91
 
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 88--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
-
- []
-
-
 
 [4 <./images/ToC_Data_cleaning.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 101--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--118
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--118
-
- []
-
-
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 119--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--124
-
- []
-
-<images/LR_Scores.png, id=111, 437.38406pt x 196.48407pt>
-File: images/LR_Scores.png Graphic file (type png)
-<use images/LR_Scores.png>
-Package pdftex.def Info: images/LR_Scores.png  used on input line 125.
-(pdftex.def)             Requested size: 276.00105pt x 123.98648pt.
-
-
-[6]
-<images/Hyperparameter_tuning_score.png, id=118, 506.6428pt x 538.26094pt>
-File: images/Hyperparameter_tuning_score.png Graphic file (type png)
-<use images/Hyperparameter_tuning_score.png>
-Package pdftex.def Info: images/Hyperparameter_tuning_score.png  used on input 
-line 131.
-(pdftex.def)             Requested size: 172.5pt x 183.26091pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-
- []
-
-<images/Oversamping_score.png, id=119, 468.24937pt x 532.99126pt>
-File: images/Oversamping_score.png Graphic file (type png)
-<use images/Oversamping_score.png>
-Package pdftex.def Info: images/Oversamping_score.png  used on input line 134.
-(pdftex.def)             Requested size: 172.5pt x 196.34973pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-
- []
-
-
-
-[7 <./images/LR_Scores.png> <./images/Hyperparameter_tuning_score.png>]
-<images/Undersampling_score.png, id=126, 440.39531pt x 526.21594pt>
-File: images/Undersampling_score.png Graphic file (type png)
-<use images/Undersampling_score.png>
-Package pdftex.def Info: images/Undersampling_score.png  used on input line 137
-.
-(pdftex.def)             Requested size: 172.5pt x 206.11465pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-
- []
-
-
-
-[8 <./images/Oversamping_score.png> <./images/Undersampling_score.png>]
-<images/Features_Dropped.png, id=133, 1094.0875pt x 702.625pt>
-File: images/Features_Dropped.png Graphic file (type png)
-<use images/Features_Dropped.png>
-Package pdftex.def Info: images/Features_Dropped.png  used on input line 143.
-(pdftex.def)             Requested size: 345.0pt x 221.5639pt.
-<images/One_hot_encoding_finish.png, id=134, 1362.08875pt x 321.2pt>
+<images/One_hot_encoding_finish.png, id=96, 1362.08875pt x 321.2pt>
 File: images/One_hot_encoding_finish.png Graphic file (type png)
 <use images/One_hot_encoding_finish.png>
 Package pdftex.def Info: images/One_hot_encoding_finish.png  used on input line
- 150.
+ 100.
 (pdftex.def)             Requested size: 345.0pt x 81.35353pt.
-<images/One_hot_encodiong_Stance.png, id=135, 1397.22pt x 463.7325pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--102
+
+ []
+
+<images/One_hot_encodiong_Stance.png, id=97, 1397.22pt x 463.7325pt>
 File: images/One_hot_encodiong_Stance.png Graphic file (type png)
 <use images/One_hot_encodiong_Stance.png>
 Package pdftex.def Info: images/One_hot_encodiong_Stance.png  used on input lin
-e 157.
+e 106.
 (pdftex.def)             Requested size: 345.0pt x 114.50348pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
-[9 <./images/Features_Dropped.png> <./images/One_hot_encoding_finish.png>]
-<images/Factorizing_Gender.png, id=144, 1361.085pt x 275.0275pt>
-File: images/Factorizing_Gender.png Graphic file (type png)
-<use images/Factorizing_Gender.png>
-Package pdftex.def Info: images/Factorizing_Gender.png  used on input line 164.
+ []
 
-(pdftex.def)             Requested size: 345.0pt x 69.70932pt.
-<images/Factorizing_Winner.png, id=145, 1359.0775pt x 252.945pt>
-File: images/Factorizing_Winner.png Graphic file (type png)
-<use images/Factorizing_Winner.png>
-Package pdftex.def Info: images/Factorizing_Winner.png  used on input line 171.
 
-(pdftex.def)             Requested size: 345.0pt x 64.20871pt.
-<images/Conversion_weight_lbs_to_kg.png, id=146, 727.71875pt x 250.9375pt>
+
+[5 <./images/Features_Dropped.png> <./images/One_hot_encoding_finish.png>]
+<images/Conversion_weight_lbs_to_kg.png, id=106, 727.71875pt x 250.9375pt>
 File: images/Conversion_weight_lbs_to_kg.png Graphic file (type png)
 <use images/Conversion_weight_lbs_to_kg.png>
 Package pdftex.def Info: images/Conversion_weight_lbs_to_kg.png  used on input 
-line 178.
+line 115.
 (pdftex.def)             Requested size: 345.0pt x 118.9668pt.
-<images/Filling_NaN_Values.png, id=147, 930.47626pt x 362.35374pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--117
+
+ []
+
+<images/Factorizing_Gender.png, id=107, 1361.085pt x 275.0275pt>
+File: images/Factorizing_Gender.png Graphic file (type png)
+<use images/Factorizing_Gender.png>
+Package pdftex.def Info: images/Factorizing_Gender.png  used on input line 129.
+
+(pdftex.def)             Requested size: 345.0pt x 69.70932pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--131
+
+ []
+
+
+
+[6 <./images/One_hot_encodiong_Stance.png> <./images/Conversion_weight_lbs_to_k
+g.png>]
+<images/Factorizing_Winner.png, id=117, 1359.0775pt x 252.945pt>
+File: images/Factorizing_Winner.png Graphic file (type png)
+<use images/Factorizing_Winner.png>
+Package pdftex.def Info: images/Factorizing_Winner.png  used on input line 135.
+
+(pdftex.def)             Requested size: 345.0pt x 64.20871pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--138
+
+ []
+
+<images/Filling_NaN_Values.png, id=118, 930.47626pt x 362.35374pt>
 File: images/Filling_NaN_Values.png Graphic file (type png)
 <use images/Filling_NaN_Values.png>
-Package pdftex.def Info: images/Filling_NaN_Values.png  used on input line 185.
+Package pdftex.def Info: images/Filling_NaN_Values.png  used on input line 149.
 
 (pdftex.def)             Requested size: 345.0pt x 134.35077pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 140--152
 
-[10 <./images/One_hot_encodiong_Stance.png> <./images/Factorizing_Gender.png> <
-./images/Factorizing_Winner.png> <./images/Conversion_weight_lbs_to_kg.png>]
+ []
 
-[11 <./images/Filling_NaN_Values.png>] (./RPP.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--152
+
+ []
+
+
+
+[7 <./images/Factorizing_Gender.png> <./images/Factorizing_Winner.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+
+ []
+
+
+
+[8 <./images/Filling_NaN_Values.png>]
+<images/LR_Scores.png, id=133, 437.38406pt x 196.48407pt>
+File: images/LR_Scores.png Graphic file (type png)
+<use images/LR_Scores.png>
+Package pdftex.def Info: images/LR_Scores.png  used on input line 160.
+(pdftex.def)             Requested size: 276.00105pt x 123.98648pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+
+
+[9 <./images/LR_Scores.png>]
+<images/Hyperparameter_tuning_score.png, id=139, 506.6428pt x 538.26094pt>
+File: images/Hyperparameter_tuning_score.png Graphic file (type png)
+<use images/Hyperparameter_tuning_score.png>
+Package pdftex.def Info: images/Hyperparameter_tuning_score.png  used on input 
+line 167.
+(pdftex.def)             Requested size: 172.5pt x 183.26091pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
+ []
+
+<images/Oversamping_score.png, id=140, 468.24937pt x 532.99126pt>
+File: images/Oversamping_score.png Graphic file (type png)
+<use images/Oversamping_score.png>
+Package pdftex.def Info: images/Oversamping_score.png  used on input line 170.
+(pdftex.def)             Requested size: 172.5pt x 196.34973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
+
+ []
+
+
+
+[10 <./images/Hyperparameter_tuning_score.png> <./images/Oversamping_score.png>
+]
+<images/Undersampling_score.png, id=147, 440.39531pt x 526.21594pt>
+File: images/Undersampling_score.png Graphic file (type png)
+<use images/Undersampling_score.png>
+Package pdftex.def Info: images/Undersampling_score.png  used on input line 173
+.
+(pdftex.def)             Requested size: 172.5pt x 206.11465pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+
+[11 <./images/Undersampling_score.png>] (./RPP.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `RPP.out' has not changed.
-(rerunfilecheck)             Checksum: 9BA06AC1F52B4AA6B5338F1702784543;1540.
+(rerunfilecheck)             Checksum: A440FFD72FB4D0940B7309A5A67F9E10;1456.
  ) 
 Here is how much of TeX's memory you used:
- 10971 strings out of 473330
- 184688 string characters out of 5703871
- 587843 words of memory out of 5000000
- 33980 multiletter control sequences out of 15000+600000
+ 10964 strings out of 473330
+ 184541 string characters out of 5703871
+ 587516 words of memory out of 5000000
+ 33974 multiletter control sequences out of 15000+600000
  560539 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,623b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -709,10 +732,10 @@ ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/Gebruik
 er/Applications/texstudio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on RPP.pdf (12 pages, 973919 bytes).
+Output written on RPP.pdf (12 pages, 972859 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
