@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  8 JAN 2025 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  9 JAN 2025 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -250,77 +250,101 @@ babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
+(c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/ca
+ption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/ca
+ption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen149
+\captionmargin=\dimen150
+\caption@leftmargin=\dimen151
+\caption@rightmargin=\dimen152
+\caption@width=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
+Package caption Info: hyperref package is loaded.
+)
+(c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/fl
+oat/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks18
+\float@box=\box52
+\@float@everytoks=\toks19
+\@floatcapt=\box53
+)
 (c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/l3
 backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box54
 ) (./RPP.aux)
 \openout1 = `RPP.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 (c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/context/
 base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen149
-\scratchbox=\box53
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen150
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count288
+\scratchdimen=\dimen157
+\scratchbox=\box55
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen158
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks21
 )
 (c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/ep
 stopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/gr
-fext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/tex/latex/la
 texconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 8.
+Package hyperref Info: Link coloring OFF on input line 10.
  (./RPP.out) (./RPP.out)
 \@outlinefile=\write3
 \openout3 = `RPP.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
 <images/fontyslogo.png, id=56, 301.125pt x 163.61125pt>
 File: images/fontyslogo.png Graphic file (type png)
 <use images/fontyslogo.png>
-Package pdftex.def Info: images/fontyslogo.png  used on input line 14.
+Package pdftex.def Info: images/fontyslogo.png  used on input line 16.
 (pdftex.def)             Requested size: 137.9979pt x 74.98247pt.
 
 
@@ -343,247 +367,352 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 	\newpage
+l.30 	\newpage
                [1]
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--46
+Underfull \hbox (badness 10000) in paragraph at lines 35--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--46
+Underfull \hbox (badness 10000) in paragraph at lines 35--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--66
+Underfull \hbox (badness 10000) in paragraph at lines 50--68
 
  []
 
 
 
 [2]
-<images/ToC_Data_cleaning.png, id=88, 498.86375pt x 288.07625pt>
+<images/ToC_Data_cleaning.png, id=88, 287.57437pt x 146.79843pt>
 File: images/ToC_Data_cleaning.png Graphic file (type png)
 <use images/ToC_Data_cleaning.png>
-Package pdftex.def Info: images/ToC_Data_cleaning.png  used on input line 75.
-(pdftex.def)             Requested size: 276.00105pt x 159.38309pt.
+Package pdftex.def Info: images/ToC_Data_cleaning.png  used on input line 77.
+(pdftex.def)             Requested size: 276.00105pt x 140.89577pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--78
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--85
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
 
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 86--92
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--92
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
 
  []
 
 
 
 [4 <./images/ToC_Data_cleaning.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--116
+Underfull \hbox (badness 10000) in paragraph at lines 111--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--116
+Underfull \hbox (badness 10000) in paragraph at lines 111--118
 
  []
 
 
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
 
  []
 
-<images/Features_Dropped.png, id=111, 1094.0875pt x 702.625pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+
+ []
+
+<images/LR_Scores.png, id=111, 437.38406pt x 196.48407pt>
+File: images/LR_Scores.png Graphic file (type png)
+<use images/LR_Scores.png>
+Package pdftex.def Info: images/LR_Scores.png  used on input line 125.
+(pdftex.def)             Requested size: 276.00105pt x 123.98648pt.
+
+
+[6]
+<images/Hyperparameter_tuning_score.png, id=118, 506.6428pt x 538.26094pt>
+File: images/Hyperparameter_tuning_score.png Graphic file (type png)
+<use images/Hyperparameter_tuning_score.png>
+Package pdftex.def Info: images/Hyperparameter_tuning_score.png  used on input 
+line 131.
+(pdftex.def)             Requested size: 172.5pt x 183.26091pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+<images/Oversamping_score.png, id=119, 468.24937pt x 532.99126pt>
+File: images/Oversamping_score.png Graphic file (type png)
+<use images/Oversamping_score.png>
+Package pdftex.def Info: images/Oversamping_score.png  used on input line 134.
+(pdftex.def)             Requested size: 172.5pt x 196.34973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+
+[7 <./images/LR_Scores.png> <./images/Hyperparameter_tuning_score.png>]
+<images/Undersampling_score.png, id=126, 440.39531pt x 526.21594pt>
+File: images/Undersampling_score.png Graphic file (type png)
+<use images/Undersampling_score.png>
+Package pdftex.def Info: images/Undersampling_score.png  used on input line 137
+.
+(pdftex.def)             Requested size: 172.5pt x 206.11465pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+
+[8 <./images/Oversamping_score.png> <./images/Undersampling_score.png>]
+<images/Features_Dropped.png, id=133, 1094.0875pt x 702.625pt>
 File: images/Features_Dropped.png Graphic file (type png)
 <use images/Features_Dropped.png>
-Package pdftex.def Info: images/Features_Dropped.png  used on input line 126.
+Package pdftex.def Info: images/Features_Dropped.png  used on input line 143.
 (pdftex.def)             Requested size: 345.0pt x 221.5639pt.
-<images/One_hot_encoding_finish.png, id=112, 1362.08875pt x 321.2pt>
+<images/One_hot_encoding_finish.png, id=134, 1362.08875pt x 321.2pt>
 File: images/One_hot_encoding_finish.png Graphic file (type png)
 <use images/One_hot_encoding_finish.png>
 Package pdftex.def Info: images/One_hot_encoding_finish.png  used on input line
- 133.
+ 150.
 (pdftex.def)             Requested size: 345.0pt x 81.35353pt.
-<images/One_hot_encodiong_Stance.png, id=113, 1397.22pt x 463.7325pt>
+<images/One_hot_encodiong_Stance.png, id=135, 1397.22pt x 463.7325pt>
 File: images/One_hot_encodiong_Stance.png Graphic file (type png)
 <use images/One_hot_encodiong_Stance.png>
 Package pdftex.def Info: images/One_hot_encodiong_Stance.png  used on input lin
-e 140.
+e 157.
 (pdftex.def)             Requested size: 345.0pt x 114.50348pt.
-<images/Factorizing_Gender.png, id=114, 1361.085pt x 275.0275pt>
+
+
+[9 <./images/Features_Dropped.png> <./images/One_hot_encoding_finish.png>]
+<images/Factorizing_Gender.png, id=144, 1361.085pt x 275.0275pt>
 File: images/Factorizing_Gender.png Graphic file (type png)
 <use images/Factorizing_Gender.png>
-Package pdftex.def Info: images/Factorizing_Gender.png  used on input line 147.
+Package pdftex.def Info: images/Factorizing_Gender.png  used on input line 164.
 
 (pdftex.def)             Requested size: 345.0pt x 69.70932pt.
-<images/Factorizing_Winner.png, id=115, 1359.0775pt x 252.945pt>
+<images/Factorizing_Winner.png, id=145, 1359.0775pt x 252.945pt>
 File: images/Factorizing_Winner.png Graphic file (type png)
 <use images/Factorizing_Winner.png>
-Package pdftex.def Info: images/Factorizing_Winner.png  used on input line 154.
+Package pdftex.def Info: images/Factorizing_Winner.png  used on input line 171.
 
 (pdftex.def)             Requested size: 345.0pt x 64.20871pt.
-<images/Conversion_weight_lbs_to_kg.png, id=116, 727.71875pt x 250.9375pt>
+<images/Conversion_weight_lbs_to_kg.png, id=146, 727.71875pt x 250.9375pt>
 File: images/Conversion_weight_lbs_to_kg.png Graphic file (type png)
 <use images/Conversion_weight_lbs_to_kg.png>
 Package pdftex.def Info: images/Conversion_weight_lbs_to_kg.png  used on input 
-line 161.
+line 178.
 (pdftex.def)             Requested size: 345.0pt x 118.9668pt.
-<images/Filling_NaN_Values.png, id=117, 930.47626pt x 362.35374pt>
+<images/Filling_NaN_Values.png, id=147, 930.47626pt x 362.35374pt>
 File: images/Filling_NaN_Values.png Graphic file (type png)
 <use images/Filling_NaN_Values.png>
-Package pdftex.def Info: images/Filling_NaN_Values.png  used on input line 168.
+Package pdftex.def Info: images/Filling_NaN_Values.png  used on input line 185.
 
 (pdftex.def)             Requested size: 345.0pt x 134.35077pt.
 
 
-[6]
+[10 <./images/One_hot_encodiong_Stance.png> <./images/Factorizing_Gender.png> <
+./images/Factorizing_Winner.png> <./images/Conversion_weight_lbs_to_kg.png>]
 
-[7 <./images/Features_Dropped.png> <./images/One_hot_encoding_finish.png> <./im
-ages/One_hot_encodiong_Stance.png>]
-
-[8 <./images/Factorizing_Gender.png> <./images/Factorizing_Winner.png> <./image
-s/Conversion_weight_lbs_to_kg.png> <./images/Filling_NaN_Values.png>]
-(./RPP.aux)
+[11 <./images/Filling_NaN_Values.png>] (./RPP.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `RPP.out' has not changed.
-(rerunfilecheck)             Checksum: F66D3D0C74D784A55C511B1C4DFA96EC;1516.
+(rerunfilecheck)             Checksum: 9BA06AC1F52B4AA6B5338F1702784543;1540.
  ) 
 Here is how much of TeX's memory you used:
- 9607 strings out of 473330
- 157952 string characters out of 5703871
- 564037 words of memory out of 5000000
- 32625 multiletter control sequences out of 15000+600000
+ 10971 strings out of 473330
+ 184688 string characters out of 5703871
+ 587843 words of memory out of 5000000
+ 33980 multiletter control sequences out of 15000+600000
  560539 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,546b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,623b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmbx10.pfb><c:/Users/Gebruiker/Applications/texstudio/texl
 ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/Gebruik
 er/Applications/texstudio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on RPP.pdf (9 pages, 904230 bytes).
+Output written on RPP.pdf (12 pages, 973919 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 

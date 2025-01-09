@@ -4,6 +4,8 @@
 \usepackage{hyperref}
 \usepackage[english]{babel}
 \usepackage{nameref}
+\usepackage{caption}
+\usepackage{float}
 
 \begin{document}
 	
@@ -26,9 +28,9 @@
 	\newpage
 	\tableofcontents
 	\newpage
-	\section{Introduction}
+\section{Introduction}
 	The purpose of this document is to report in a comprehensive way all the work that has been done throughout my fifth semester regarding the creation of an AI tool for predicting the outcome of MMA bouts. To do so, I will be using the simplified data science IBM methodology framework structure to convey all the necessary information regarding my project. Using this format I will be able to reflect on my work while explaining how the project was built and how it works.\\\\
-	\section{Business understanding}
+\section{Business understanding}
 	%The different probabilities of bouts ending
 	The primary objective of this project is to develop a predictive tool that provides insights into the outcome of a bout between two fighters. 
 	Rather than offering a binary prediction (0 or 1, representing true or false outcomes), the tool generates probabilistic predictions on a scale 
@@ -44,7 +46,7 @@
 	specific fighting techniques, fighters can tailor their training regimens to exploit their opponent's vulnerabilities and address their own 
 	shortcomings.
 
-	\section{Data understanding}
+\section{Data understanding}
 	The dataset selected for this project is sourced from Kaggle and contains data on every UFC fight from mid-2010 to the present. Each row in the dataset represents 
   an individual bout, making it well-suited for predictive modeling and analysis. This dataset was chosen for several reasons: it is regularly updated on a weekly basis
   , ensuring that the data remains current, and it already includes pre-processed statistics such as the difference in metrics between the two fighters in each bout. 
@@ -66,7 +68,7 @@
 
   %Maybe add data visualizations here later after feedback
   %
-  \section{Data preparation}
+ \section{Data preparation}
   %Refer to appendix most images
   In order to explain the data preparation done regarding the ufc dataset I will reference most of my explanations to the appendix. This was done to keep a neatly organized
   text. I will be using snippets from my Jupyter notebook. All these features are displayed here: \\
@@ -82,7 +84,7 @@
   upcoming subsection it will be explained why. Initially the number of features was 118. After dropping the unnecessary features, the number was reduced to 49.\\\\ 
   These features were rankings, streak orientated, or keeping track of the fighters' decisions and win/lose streak, and other miscelanous features that are irrelevant.\\\\ 
   The code for the feature removal can be found \href{fig:features_dropped}{\textbf{here}}
-  \subsection{One-Hot-Encoding} %First explain what is one-hot-encoding, then explain why these features were one-hot-encoded and not factorized
+ \subsection{One-Hot-Encoding} %First explain what is one-hot-encoding, then explain why these features were one-hot-encoded and not factorized
   One-hot-encoding is used to trnasform categorical values into numberical values. In this case the 'Finish' feature had 5 different types of finished. When I one-hot-encode 
   the feature I get 5 different columns with all the possible finishes and every bout (each row in the dataset) has a true or false to the according finish. It is not a good idea 
   to factorize with that many different options because the model could develop bias towards the bigger numbers.\\\\ 
@@ -113,63 +115,75 @@
   Most of the features did not have a significant impact on the accuracy of the model that is why they were filled with 0. Most of the rows that had NULL features were both from the 
   red and blue corner (e.g. The 'RedOdds' feature and 'BlueOdds' feature in the row were both NULL so filling them with 0 just fixes the empty value)\\\\ 
   Code for \nameref{fig:filling_nan_values}
-	\section{Modeling}
-	\section{Evaluation}
-	\section{Conclusion}
-  \section{Appendix}
+\section{Modelling}
+Choosing a model for the data was difficult given the reason that the project idea was to not predict if a fighter is going to win (0 or 1), but rather see the likelihood of a fighter winning in three different outcomes against the opponent. Knowing this, logistic regression seemed like a good fit for the project.\\\\
+Logistic regression under the hood is a classification model that uses the Sigmoid function. Although, given its classification nature, it provides the probability output between 0 and 1.\\\\
+In this project, four different models were trained with the data. This is due to the fact that the target variable needed to be existent in the dataset. In the beginning, an imaginary target variable was created, which was a combination of all the targets: 'Winner', 'Finish\_KO/TKO', 'Finish\_SUB', 'Finish\_U-DEC'. For this project, other finishes were not taken into account for simplicity reasons. Although further development could be the prediction of the rest finish outcomes of a match, e.g., 'Doctor stoppage'.\\\\
+The first results I received by training the data with the combined and cleaned dataset was \textbf{0.63}\% score accuracy. However, looking into the precision, recall, and f1-score, it was quickly established that the data has some sort of bias towards the red corner. This could be due to the fact that in the history of the UFC, more red corner fighters actually won than blue corner fighters. Or the model is simply predicting red fighter winning better than blue fighter.\\\\
+Here will be displayed the scores of training without any hyperparameter tuning or anything to improve the performance of the model.\\
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/Features_Dropped.png}
-    \caption{Unnecessary features dropped}
-    \label{fig:features_dropped}
-  \end{figure}
+	\includegraphics[width=0.8\textwidth]{images/LR_Scores.png}
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/One_hot_encoding_finish.png}
-    \caption{One-Hot-Encoding 'Finish' feature}
-    \label{fig:One_hot_encoding_finish}
-  \end{figure}
+\subsection{Optimization}
+Logistic regression was used to train four models with four different target variable. However on all of them this bias towards the red corner was persistent. In order to mitigate this bias, balancing the set was needed. Hyperparameter tuning, oversampling and undersampling were performed on the datasets and then the data was trained again using Logistic regression. Using undersampling, the accuracy got better and the bias was mitigated better than the rest of them. Unfortunately, the other techniques didn't really improve the accuracy nor mitigated the red corner winning prediction.\\\\
+The different scores of the optimization of the dataset will be displayed below.\\\\
+	{\large \textbf{Hyperparameter Tuning Score}}\\\\
+	\includegraphics[width=0.5\textwidth]{images/Hyperparameter_tuning_score.png}\\\\
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/One_hot_encodiong_Stance.png}
-    \caption{One-Hot-Encoding 'Stance' feature}
-    \label{fig:One_hot_encoding_stance}
-  \end{figure}
+	{\large \textbf{Oversampling Score}}\\\\
+	\includegraphics[width=0.5\textwidth]{images/Oversamping_score.png}\\\\
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/Factorizing_Gender.png}
-    \caption{Factorizing the 'Gender' feature}
-    \label{fig:factorizing_gender}
-  \end{figure}
+	{\large \textbf{Undersampling Score}}\\\\
+	\includegraphics[width=0.5\textwidth]{images/Undersampling_score.png}\\\\
+\section{Conclusion}
+Overall, a good accuracy was achieved of \textbf{0.66\%} an increase from the raw modeling of logistic regression 0.63\%. It is very difficult to predict an outcome of a match or which fighter will win. There are many attributes that need to be taken into account. There is a possible further continuation of the project, looking into betting odds. I personally think that this could be a good direction of the project.\\
+\section{Appendix}
+	\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/Features_Dropped.png}
+	\caption{Unnecessary features dropped}
+	\label{fig:features_dropped}
+	\end{figure}
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/Factorizing_Winner.png}
-    \caption{Factorizing the 'Winner' feature}
-    \label{fig:factorizing_winner}
-  \end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/One_hot_encoding_finish.png}
+	\caption{One-Hot-Encoding 'Finish' feature}
+	\label{fig:One_hot_encoding_finish}
+\end{figure}
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/Conversion_weight_lbs_to_kg.png}
-    \caption{Converting the 'Weight' feature from lbs to kg}
-    \label{fig:converting_weight}
-  \end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/One_hot_encodiong_Stance.png}
+	\caption{One-Hot-Encoding 'Stance' feature}
+	\label{fig:One_hot_encoding_stance}
+\end{figure}
 
-  \begin{figure}
-    \centering
-    \includegraphics[width=1\textwidth]{images/Filling_NaN_Values.png}
-    \caption{filling the NaN values}
-    \label{fig:filling_nan_values}
-  \end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/Factorizing_Gender.png}
+	\caption{Factorizing the 'Gender' feature}
+	\label{fig:factorizing_gender}
+\end{figure}
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/Factorizing_Winner.png}
+	\caption{Factorizing the 'Winner' feature}
+	\label{fig:factorizing_winner}
+\end{figure}
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/Conversion_weight_lbs_to_kg.png}
+	\caption{Converting the 'Weight' feature from lbs to kg}
+	\label{fig:converting_weight}
+\end{figure}
 
-
-
-
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{images/Filling_NaN_Values.png}
+	\caption{filling the NaN values}
+	\label{fig:filling_nan_values}
+\end{figure}
 \end{document}
