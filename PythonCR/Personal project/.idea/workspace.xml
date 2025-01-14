@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0928ece-4915-4b32-9e9f-eb41272ec104" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogisticRegressionUFC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LogisticRegressionUFC.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UfcModel.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_ufc_fighters.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ufc-fighters-statistics.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pkoEc5HUSJM5xc177ltNGbSuGP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/OneDrive/GitHub/MinorAI/PythonCR/Personal project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JupyterPython&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive\GitHub\MinorAI\PythonCR\Personal project" />
+      <recent name="C:\Users\Gebruiker\Documents\GitHub\MinorAI\PythonCR\Personal project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive\GitHub\MinorAI\PythonCR\Personal project\Images" />
+      <recent name="C:\Users\Gebruiker\OneDrive\GitHub\MinorAI\PythonCR\Personal project\Datasets" />
+      <recent name="C:\Users\Gebruiker\OneDrive\GitHub\MinorAI\PythonCR\Personal project" />
+      <recent name="C:\Users\Gebruiker\Documents\GitHub\MinorAI\PythonCR\Personal project\UFCMaster" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0928ece-4915-4b32-9e9f-eb41272ec104" name="Changes" comment="" />
+      <created>1733319324112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733319324112</updated>
+      <workItem from="1733319325667" duration="21588000" />
+      <workItem from="1733350343152" duration="3396000" />
+      <workItem from="1733490779887" duration="1530000" />
+      <workItem from="1733578411887" duration="344000" />
+      <workItem from="1734357827651" duration="15000" />
+      <workItem from="1734357851830" duration="285000" />
+      <workItem from="1734435616629" duration="2545000" />
+      <workItem from="1734517435753" duration="13289000" />
+      <workItem from="1734740627139" duration="2584000" />
+      <workItem from="1736170285941" duration="3167000" />
+      <workItem from="1736173485372" duration="3105000" />
+      <workItem from="1736343748622" duration="1810000" />
+      <workItem from="1736427261335" duration="5750000" />
+      <workItem from="1736639752509" duration="843000" />
+      <workItem from="1736714475592" duration="5132000" />
+      <workItem from="1736723415732" duration="4469000" />
+      <workItem from="1736773412970" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UfcModel_ipynb$test.coverage" NAME="test Coverage Results" MODIFIED="1733578599453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
