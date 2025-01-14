@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  13 JAN 2025 01:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  14 JAN 2025 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -578,66 +578,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--152
 
 
 [7 <./images/Factorizing_Gender.png> <./images/Factorizing_Winner.png>]
-<images/CM_Winner.png, id=127, 452.4403pt x 347.79938pt>
-File: images/CM_Winner.png Graphic file (type png)
-<use images/CM_Winner.png>
-Package pdftex.def Info: images/CM_Winner.png  used on input line 160.
-(pdftex.def)             Requested size: 172.5pt x 132.6003pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
 
  []
 
 
 
 [8 <./images/Filling_NaN_Values.png>]
+<images/CM_Winner.png, id=133, 452.4403pt x 347.79938pt>
+File: images/CM_Winner.png Graphic file (type png)
+<use images/CM_Winner.png>
+Package pdftex.def Info: images/CM_Winner.png  used on input line 161.
+(pdftex.def)             Requested size: 172.5pt x 132.6003pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
 <images/CM_KO-TKO.png, id=134, 483.30562pt x 328.22626pt>
 File: images/CM_KO-TKO.png Graphic file (type png)
 <use images/CM_KO-TKO.png>
-Package pdftex.def Info: images/CM_KO-TKO.png  used on input line 163.
+Package pdftex.def Info: images/CM_KO-TKO.png  used on input line 164.
 (pdftex.def)             Requested size: 172.5pt x 117.14967pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--164
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--164
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--164
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
@@ -647,50 +651,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--164
 <images/CM_Submission.png, id=141, 439.6425pt x 347.79938pt>
 File: images/CM_Submission.png Graphic file (type png)
 <use images/CM_Submission.png>
-Package pdftex.def Info: images/CM_Submission.png  used on input line 166.
+Package pdftex.def Info: images/CM_Submission.png  used on input line 167.
 (pdftex.def)             Requested size: 172.5pt x 136.46379pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
 <images/CM_U-DEC.png, id=142, 456.20438pt x 344.78813pt>
 File: images/CM_U-DEC.png Graphic file (type png)
 <use images/CM_U-DEC.png>
-Package pdftex.def Info: images/CM_U-DEC.png  used on input line 169.
+Package pdftex.def Info: images/CM_U-DEC.png  used on input line 170.
 (pdftex.def)             Requested size: 172.5pt x 130.36847pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--170
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--170
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--170
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
@@ -700,75 +694,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--176
 <images/CM_Hyp_Winner.png, id=149, 455.45157pt x 346.29375pt>
 File: images/CM_Hyp_Winner.png Graphic file (type png)
 <use images/CM_Hyp_Winner.png>
-Package pdftex.def Info: images/CM_Hyp_Winner.png  used on input line 179.
+Package pdftex.def Info: images/CM_Hyp_Winner.png  used on input line 181.
 (pdftex.def)             Requested size: 172.5pt x 131.1597pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 
  []
 
 <images/CM_U_O_Win.png, id=150, 462.22687pt x 727.96968pt>
 File: images/CM_U_O_Win.png Graphic file (type png)
 <use images/CM_U_O_Win.png>
-Package pdftex.def Info: images/CM_U_O_Win.png  used on input line 182.
+Package pdftex.def Info: images/CM_U_O_Win.png  used on input line 184.
 (pdftex.def)             Requested size: 172.5pt x 271.67723pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--183
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--183
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--183
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
 
 <images/CM_Hyp_KO-TKO.png, id=151, 452.4403pt x 342.5297pt>
 File: images/CM_Hyp_KO-TKO.png Graphic file (type png)
 <use images/CM_Hyp_KO-TKO.png>
-Package pdftex.def Info: images/CM_Hyp_KO-TKO.png  used on input line 185.
+Package pdftex.def Info: images/CM_Hyp_KO-TKO.png  used on input line 188.
 (pdftex.def)             Requested size: 172.5pt x 130.5912pt.
 <images/CM_U_O_KO-TKO.png, id=152, 456.95718pt x 706.13812pt>
 File: images/CM_U_O_KO-TKO.png Graphic file (type png)
 <use images/CM_U_O_KO-TKO.png>
-Package pdftex.def Info: images/CM_U_O_KO-TKO.png  used on input line 187.
+Package pdftex.def Info: images/CM_U_O_KO-TKO.png  used on input line 190.
 (pdftex.def)             Requested size: 172.5pt x 266.55743pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--188
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--188
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--188
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--188
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--188
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
@@ -780,35 +764,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--188
 <images/CM_Hyp_SUB.png, id=166, 429.10312pt x 339.51843pt>
 File: images/CM_Hyp_SUB.png Graphic file (type png)
 <use images/CM_Hyp_SUB.png>
-Package pdftex.def Info: images/CM_Hyp_SUB.png  used on input line 190.
+Package pdftex.def Info: images/CM_Hyp_SUB.png  used on input line 194.
 (pdftex.def)             Requested size: 172.5pt x 136.4888pt.
 <images/CM_U_O_SUB.png, id=167, 478.03593pt x 684.30656pt>
 File: images/CM_U_O_SUB.png Graphic file (type png)
 <use images/CM_U_O_SUB.png>
-Package pdftex.def Info: images/CM_U_O_SUB.png  used on input line 192.
+Package pdftex.def Info: images/CM_U_O_SUB.png  used on input line 196.
 (pdftex.def)             Requested size: 172.5pt x 246.92445pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
@@ -818,42 +797,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--193
 <images/CM_Hyp_U-DEC.png, id=174, 455.45157pt x 344.03531pt>
 File: images/CM_Hyp_U-DEC.png Graphic file (type png)
 <use images/CM_Hyp_U-DEC.png>
-Package pdftex.def Info: images/CM_Hyp_U-DEC.png  used on input line 195.
+Package pdftex.def Info: images/CM_Hyp_U-DEC.png  used on input line 200.
 (pdftex.def)             Requested size: 172.5pt x 130.3043pt.
 <images/CM_U_O_U-DEC.png, id=175, 479.54156pt x 690.32906pt>
 File: images/CM_U_O_U-DEC.png Graphic file (type png)
 <use images/CM_U_O_U-DEC.png>
-Package pdftex.def Info: images/CM_U_O_U-DEC.png  used on input line 197.
+Package pdftex.def Info: images/CM_U_O_U-DEC.png  used on input line 202.
 (pdftex.def)             Requested size: 172.5pt x 248.32866pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--198
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--198
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--198
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--198
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--198
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
  []
 
 
 
 [14 <./images/CM_Hyp_U-DEC.png> <./images/CM_U_O_U-DEC.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
@@ -881,7 +855,7 @@ ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/Gebruik
 er/Applications/texstudio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on RPP.pdf (16 pages, 1153615 bytes).
+Output written on RPP.pdf (16 pages, 1155010 bytes).
 PDF statistics:
  218 PDF objects out of 1000 (max. 8388607)
  148 compressed objects within 2 object streams

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0928ece-4915-4b32-9e9f-eb41272ec104" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documents/Report_Personal_Project/RPP.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogisticRegressionUFC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LogisticRegressionUFC.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UfcModel.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cleaned_ufc_fighters.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ufc-fighters-statistics.csv" beforeDir="false" />
@@ -106,6 +99,7 @@
       <workItem from="1736714475592" duration="5132000" />
       <workItem from="1736723415732" duration="4469000" />
       <workItem from="1736773412970" duration="786000" />
+      <workItem from="1736853229727" duration="1305000" />
     </task>
     <servers />
   </component>

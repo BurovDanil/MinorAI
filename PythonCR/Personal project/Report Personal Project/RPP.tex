@@ -156,6 +156,7 @@ Logistic regression under the hood is a classification model that uses the Sigmo
 In this project, four different models were trained with the data. This is due to the fact that the target variable needed to be existent in the dataset. In the beginning, an imaginary target variable was created, which was a combination of all the targets: 'Winner', 'Finish\_KO/TKO', 'Finish\_SUB', 'Finish\_U-DEC'. For this project, other finishes were not taken into account for simplicity reasons. Although further development could be the prediction of the rest finish outcomes of a match, e.g., 'Doctor stoppage'.\\\\
 Four different baseline models were trained for the purpose of the project. Each one having the according target variable. The winner prediction model has a baseline accuracy of \textbf{0.62\%}, the KO/TKO has \textbf{0.67\%}, submission has \textbf{0.80\%}, and the unanimous decision model has \textbf{0.66\%} accuracy. However, looking into the confusion matrixes of all the models it was easily established that the model has a big bias towards the blue corner.
 Below will be displayed the confusion matrixes of all the baseline models.\\\\
+\newpage
 	{\large \textbf{Winner baseline model}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_Winner.png}\\\\
 	
@@ -172,7 +173,8 @@ It is very clear that the models are not really predicting well. All of them see
 
 \subsection{Optimization}
 Logistic regression was used to train four models with four different target variable. However on all of them this bias towards the blue corner was persistent. In order to mitigate this bias, balancing the set was needed. Hyperparameter tuning, oversampling and undersampling were performed on the datasets and then the data was trained again using Logistic regression. For all models it seemed that oversampling worked best for balancing the set, however regarding accuracy it wasn't always the best pick.
-Below I will showcase all the balancing results for all four models.\\\\
+Below I will showcase all the balancing results for all four models.
+\newpage
 
 
 	{\large \textbf{Hyperparameter Tuning Score - Winner}}\\\\
@@ -180,22 +182,28 @@ Below I will showcase all the balancing results for all four models.\\\\
 
 	{\large \textbf{Oversampling/Undersampling Score - Winner}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_U_O_Win.png}\\\\
+	In this model, hyperparameter tuning and balancing the set results in a better prediction after all. It is seen that in the oversampling technique the confusion matrix shows a better prediction when it comes to red winners, however with a trade-off for more false predictions on the blue side.
 	
 	{\large \textbf{Hyperparameter Tuning Score - Finish\_KO/TKO}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_Hyp_KO-TKO.png}\\\\
 	{\large \textbf{Oversampling/Undersampling Score - Finish\_KO/TKO}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_U_O_KO-TKO.png}\\\\
+	Here the techniques applied do not result in a favourable result. Although, using oversampling did increase the true predictions for red, they are still quite low and the prediction is not reliable.
 	\newpage
 	{\large \textbf{Hyperparameter Tuning Score - Finish\_SUB}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_Hyp_SUB.png}\\\\
 	{\large \textbf{Oversampling/Undersampling Score - Finish\_SUB}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_U_O_SUB.png}\\\\
+	Unfortunately, this is the worst predicting model. There is an exponentially high bias towards the blue fighter and even with balancing of the set the bias is still too high.
 	\newpage
 	{\large \textbf{Hyperparameter Tuning Score - Finish\_U-DEC}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_Hyp_U-DEC.png}\\\\
 	{\large \textbf{Oversampling/Undersampling Score - Finish\_U-DEC}}\\\\
 	\includegraphics[width=0.5\textwidth]{images/CM_U_O_U-DEC.png}\\\\
+	This model has the same outcome as the submission model. It just does not perform well at all. Based on the confusion matrixes it is seen that there is an even distribution of true - positivies and true-negatives which is absolutely incorrect.
 	\newpage
+	It is very clear that hyperparameter tuning doesn't really boost the performance of the model. The model is still predicting blue fighters better than red fighters, however the accuracy in some of the cases does increase.\\
+	Opposed to oversampling which boosts the fairness of the model on all of the models. This is due to the fact that the oversampling technique populates the minority class (blue) with synthetic data. However this should be taken with a grain of salt because the synthetic data could be duplicates which might influence the models' accuracy and prediction.
 \section{Conclusion}
 Overall, the baseline models are very insufficient and if the model is to be used in any way it needs to have a more balanced set due to the difference between the red and blue winners in the dataset. It makes it so that the dataset develops a bias towards a winner. However, there is at least one good model from each outcome. The highest score of accuracy was achieved in the following optimized models: oversampled winner models with accuracy \textbf{0.64\%}, hyperparameter tuned finish\_ko/tko model with accuracy \textbf{0.67\%}, hyperparameter tuned submission model with \textbf{0.80\%}, baseline model for the unanimous decision model \textbf{0.66\%}.It is very difficult to predict an outcome of a match or which fighter will win. There are many attributes that need to be taken into account. There is a possible further continuation of the project, looking into betting odds. I personally think that this could be a good direction of the project.\\
 \end{document}
