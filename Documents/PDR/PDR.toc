@@ -14,30 +14,30 @@
 \contentsline {subsection}{\numberline {4.2}Second evaluation}{9}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Third evaluation}{9}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Final evaluation}{11}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Learning outcome 4 - Machine teaching}{11}{section.5}%
-\contentsline {subsection}{\numberline {5.1}First evaluation}{11}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Second evaluation}{12}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Third evaluation}{12}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Final evaluation}{15}{subsection.5.4}%
-\contentsline {section}{\numberline {6}Learning outcome 5 - Data visualization}{15}{section.6}%
-\contentsline {subsection}{\numberline {6.1}First evaluation}{15}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Second evaluation}{15}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Third evaluation}{15}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Final evaluation}{17}{subsection.6.4}%
-\contentsline {section}{\numberline {7}Learning outcome 6 - Reporting}{17}{section.7}%
-\contentsline {subsection}{\numberline {7.1}First evaluation}{17}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Second evaluation}{17}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Third evaluation}{17}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Final evaluation}{19}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Learning outcome 7 - Personal Leadership}{19}{section.8}%
-\contentsline {subsection}{\numberline {8.1}First evaluation}{20}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Second evaluation}{20}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Third evaluation}{20}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Final evaluation}{24}{subsection.8.4}%
-\contentsline {section}{\numberline {9}Learning outcome 8 - Personal goal}{24}{section.9}%
-\contentsline {subsection}{\numberline {9.1}First evaluation}{25}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Second evaluation}{25}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Third evaluation}{25}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Final evaluation}{26}{subsection.9.4}%
-\contentsline {section}{\numberline {10}Retrospect}{27}{section.10}%
-\contentsline {section}{\numberline {11}Conclusion}{27}{section.11}%
+\contentsline {section}{\numberline {5}Learning outcome 4 - Machine teaching}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}First evaluation}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Second evaluation}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Third evaluation}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Final evaluation}{16}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Learning outcome 5 - Data visualization}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}First evaluation}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Second evaluation}{17}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Third evaluation}{17}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Final evaluation}{19}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Learning outcome 6 - Reporting}{20}{section.7}%
+\contentsline {subsection}{\numberline {7.1}First evaluation}{21}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Second evaluation}{21}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Third evaluation}{21}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Final evaluation}{23}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Learning outcome 7 - Personal Leadership}{23}{section.8}%
+\contentsline {subsection}{\numberline {8.1}First evaluation}{24}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Second evaluation}{24}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Third evaluation}{24}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Final evaluation}{28}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Learning outcome 8 - Personal goal}{30}{section.9}%
+\contentsline {subsection}{\numberline {9.1}First evaluation}{31}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Second evaluation}{31}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Third evaluation}{31}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Final evaluation}{32}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Retrospect}{33}{section.10}%
+\contentsline {section}{\numberline {11}Conclusion}{34}{section.11}%

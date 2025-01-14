@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  14 JAN 2025 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  14 JAN 2025 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -302,7 +302,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 ...9.2}Second evaluation}{26}{subsection.9.2}
+l.39 ...9.2}Second evaluation}{31}{subsection.9.2}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `PDR.toc'.
@@ -420,110 +420,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
 
 [10]
-<images/FeedbackTeachableMachines.png, id=286, 1412.27625pt x 812.03375pt>
-File: images/FeedbackTeachableMachines.png Graphic file (type png)
-<use images/FeedbackTeachableMachines.png>
-Package pdftex.def Info: images/FeedbackTeachableMachines.png  used on input li
-ne 174.
-(pdftex.def)             Requested size: 345.0pt x 198.36145pt.
+File: images/Feedback_Bas_2.png Graphic file (type png)
+<use images/Feedback_Bas_2.png>
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 157.
+(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--161
+
+ []
+
 
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+<images/FeedbackTeachableMachines.png, id=290, 1412.27625pt x 812.03375pt>
+File: images/FeedbackTeachableMachines.png Graphic file (type png)
+<use images/FeedbackTeachableMachines.png>
+Package pdftex.def Info: images/FeedbackTeachableMachines.png  used on input li
+ne 177.
+(pdftex.def)             Requested size: 345.0pt x 198.36145pt.
+
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 File: images/Feedback_Bas_2.png Graphic file (type png)
 <use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 192.
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 195.
 (pdftex.def)             Requested size: 345.0pt x 391.9926pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
 
  []
 
 
 
-[12 <./images/FeedbackTeachableMachines.png>]
+[13 <./images/FeedbackTeachableMachines.png>]
 File: images/Feedback_Bas_1.png Graphic file (type png)
 <use images/Feedback_Bas_1.png>
-Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 196.
+Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 199.
 (pdftex.def)             Requested size: 345.0pt x 414.59189pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
 
  []
 
 
-
-[13]
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
+File: images/Feedback_Bas_1.png Graphic file (type png)
+<use images/Feedback_Bas_1.png>
+Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 206.
+(pdftex.def)             Requested size: 345.0pt x 414.59189pt.
+
+
+[15]
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 224--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
 File: images/Feedback_Bas_2.png Graphic file (type png)
 <use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 225.
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 232.
 (pdftex.def)             Requested size: 345.0pt x 391.9926pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 225--226
+Overfull \hbox (15.0pt too wide) in paragraph at lines 232--233
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
-
- []
-
-
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
-
- []
-
-
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 244--248
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--257
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--257
-
- []
-
-File: images/Feedback_Niek_1.png Graphic file (type png)
-<use images/Feedback_Niek_1.png>
-Package pdftex.def Info: images/Feedback_Niek_1.png  used on input line 260.
-(pdftex.def)             Requested size: 345.0pt x 283.59961pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--261
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 
 
 [17]
-File: images/Feedback_Niek_2.png Graphic file (type png)
-<use images/Feedback_Niek_2.png>
-Package pdftex.def Info: images/Feedback_Niek_2.png  used on input line 263.
-(pdftex.def)             Requested size: 345.0pt x 354.29654pt.
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--264
+ []
+
+<images/Feedback_Bas_3.png, id=318, 620.3175pt x 616.55344pt>
+File: images/Feedback_Bas_3.png Graphic file (type png)
+<use images/Feedback_Bas_3.png>
+Package pdftex.def Info: images/Feedback_Bas_3.png  used on input line 240.
+(pdftex.def)             Requested size: 345.0pt x 342.9062pt.
+<images/Feedback_Bas_4.png, id=319, 609.77812pt x 602.25pt>
+File: images/Feedback_Bas_4.png Graphic file (type png)
+<use images/Feedback_Bas_4.png>
+Package pdftex.def Info: images/Feedback_Bas_4.png  used on input line 243.
+(pdftex.def)             Requested size: 345.0pt x 340.74974pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--245
 
  []
 
@@ -531,49 +542,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--264
 
 [18]
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 284--288
+[19 <./images/Feedback_Bas_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 256--260
+
+ []
+
+
+
+[20 <./images/Feedback_Bas_4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--269
 
  []
 
 File: images/Feedback_Niek_1.png Graphic file (type png)
 <use images/Feedback_Niek_1.png>
-Package pdftex.def Info: images/Feedback_Niek_1.png  used on input line 292.
+Package pdftex.def Info: images/Feedback_Niek_1.png  used on input line 272.
 (pdftex.def)             Requested size: 345.0pt x 283.59961pt.
-File: images/Feedback_Niek_2.png Graphic file (type png)
-<use images/Feedback_Niek_2.png>
-Package pdftex.def Info: images/Feedback_Niek_2.png  used on input line 293.
-(pdftex.def)             Requested size: 345.0pt x 354.29654pt.
-File: images/Feedback_Bas_1.png Graphic file (type png)
-<use images/Feedback_Bas_1.png>
-Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 294.
-(pdftex.def)             Requested size: 345.0pt x 414.59189pt.
-File: images/Feedback_Bas_2.png Graphic file (type png)
-<use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 295.
-(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
+
+ []
 
 
-[20]
 
 [21]
+File: images/Feedback_Niek_2.png Graphic file (type png)
+<use images/Feedback_Niek_2.png>
+Package pdftex.def Info: images/Feedback_Niek_2.png  used on input line 275.
+(pdftex.def)             Requested size: 345.0pt x 354.29654pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--276
+
+ []
+
+
 
 [22]
 
 [23]
+Underfull \hbox (badness 10000) in paragraph at lines 296--300
 
-[24]
+ []
+
+File: images/Feedback_Niek_1.png Graphic file (type png)
+<use images/Feedback_Niek_1.png>
+Package pdftex.def Info: images/Feedback_Niek_1.png  used on input line 304.
+(pdftex.def)             Requested size: 345.0pt x 283.59961pt.
+File: images/Feedback_Niek_2.png Graphic file (type png)
+<use images/Feedback_Niek_2.png>
+Package pdftex.def Info: images/Feedback_Niek_2.png  used on input line 305.
+(pdftex.def)             Requested size: 345.0pt x 354.29654pt.
+File: images/Feedback_Bas_1.png Graphic file (type png)
+<use images/Feedback_Bas_1.png>
+Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 306.
+(pdftex.def)             Requested size: 345.0pt x 414.59189pt.
 File: images/Feedback_Bas_2.png Graphic file (type png)
 <use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 324.
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 307.
 (pdftex.def)             Requested size: 345.0pt x 391.9926pt.
 
+
+[24]
 
 [25]
 
 [26]
 
-[27] (./PDR.aux)
+[27]
+File: images/Feedback_Bas_3.png Graphic file (type png)
+<use images/Feedback_Bas_3.png>
+Package pdftex.def Info: images/Feedback_Bas_3.png  used on input line 311.
+(pdftex.def)             Requested size: 345.0pt x 342.9062pt.
+File: images/Feedback_Bas_4.png Graphic file (type png)
+<use images/Feedback_Bas_4.png>
+Package pdftex.def Info: images/Feedback_Bas_4.png  used on input line 312.
+(pdftex.def)             Requested size: 345.0pt x 340.74974pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--315
+
+ []
+
+
+
+[28]
+
+[29]
+
+[30]
+File: images/Feedback_Bas_2.png Graphic file (type png)
+<use images/Feedback_Bas_2.png>
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 340.
+(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
+
+
+[31]
+File: images/Feedback_Bas_2.png Graphic file (type png)
+<use images/Feedback_Bas_2.png>
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 345.
+(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--347
+
+ []
+
+
+
+[32]
+
+[33]
+
+[34] (./PDR.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
@@ -582,24 +665,27 @@ Package rerunfilecheck Info: File `PDR.out' has not changed.
 (rerunfilecheck)             Checksum: A1743CC20AC39F28E9E968D3552123CE;6824.
  ) 
 Here is how much of TeX's memory you used:
- 8586 strings out of 473330
- 137444 string characters out of 5703871
+ 8607 strings out of 473330
+ 137939 string characters out of 5703871
  536242 words of memory out of 5000000
- 31583 multiletter control sequences out of 15000+600000
+ 31597 multiletter control sequences out of 15000+600000
  560838 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,636b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,723b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmbx10.pfb><c:/Users/Gebruiker/Applications/texstudio/texl
 ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/Gebruik
 er/Applications/texstudio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/Gebruiker/Applications/texst
-udio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on PDR.pdf (28 pages, 1194586 bytes).
+m/cmmi10.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/Gebruiker/Applications/texs
+tudio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/User
+s/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on PDR.pdf (35 pages, 1305172 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 346 compressed objects within 4 object streams
- 72 named destinations out of 1000 (max. 500000)
- 380 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 

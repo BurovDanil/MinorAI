@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0928ece-4915-4b32-9e9f-eb41272ec104" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UfcModel.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cleaned_ufc_fighters.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ufc-fighters-statistics.csv" beforeDir="false" />
@@ -99,7 +98,7 @@
       <workItem from="1736714475592" duration="5132000" />
       <workItem from="1736723415732" duration="4469000" />
       <workItem from="1736773412970" duration="786000" />
-      <workItem from="1736853229727" duration="1305000" />
+      <workItem from="1736853229727" duration="2611000" />
     </task>
     <servers />
   </component>
