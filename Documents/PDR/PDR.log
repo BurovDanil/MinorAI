@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  14 JAN 2025 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.6)  16 JAN 2025 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -302,7 +302,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 ...9.2}Second evaluation}{31}{subsection.9.2}
+l.39 ...9.2}Second evaluation}{33}{subsection.9.2}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `PDR.toc'.
@@ -583,80 +583,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--276
 
 
 [22]
+File: images/Feedback_Bas_4.png Graphic file (type png)
+<use images/Feedback_Bas_4.png>
+Package pdftex.def Info: images/Feedback_Bas_4.png  used on input line 283.
+(pdftex.def)             Requested size: 345.0pt x 340.74974pt.
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 296--300
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
+
+[23]
+
+[24]
+<images/Bas_feedback_report.png, id=355, 244.66406pt x 358.33875pt>
+File: images/Bas_feedback_report.png Graphic file (type png)
+<use images/Bas_feedback_report.png>
+Package pdftex.def Info: images/Bas_feedback_report.png  used on input line 287
+.
+(pdftex.def)             Requested size: 172.5pt x 252.65073pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--309
+
+ []
+
+
+
+[25 <./images/Bas_feedback_report.png>]
 File: images/Feedback_Niek_1.png Graphic file (type png)
 <use images/Feedback_Niek_1.png>
-Package pdftex.def Info: images/Feedback_Niek_1.png  used on input line 304.
+Package pdftex.def Info: images/Feedback_Niek_1.png  used on input line 313.
 (pdftex.def)             Requested size: 345.0pt x 283.59961pt.
 File: images/Feedback_Niek_2.png Graphic file (type png)
 <use images/Feedback_Niek_2.png>
-Package pdftex.def Info: images/Feedback_Niek_2.png  used on input line 305.
+Package pdftex.def Info: images/Feedback_Niek_2.png  used on input line 314.
 (pdftex.def)             Requested size: 345.0pt x 354.29654pt.
 File: images/Feedback_Bas_1.png Graphic file (type png)
 <use images/Feedback_Bas_1.png>
-Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 306.
+Package pdftex.def Info: images/Feedback_Bas_1.png  used on input line 315.
 (pdftex.def)             Requested size: 345.0pt x 414.59189pt.
 File: images/Feedback_Bas_2.png Graphic file (type png)
 <use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 307.
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 316.
 (pdftex.def)             Requested size: 345.0pt x 391.9926pt.
 
-
-[24]
-
-[25]
 
 [26]
 
 [27]
-File: images/Feedback_Bas_3.png Graphic file (type png)
-<use images/Feedback_Bas_3.png>
-Package pdftex.def Info: images/Feedback_Bas_3.png  used on input line 311.
-(pdftex.def)             Requested size: 345.0pt x 342.9062pt.
-File: images/Feedback_Bas_4.png Graphic file (type png)
-<use images/Feedback_Bas_4.png>
-Package pdftex.def Info: images/Feedback_Bas_4.png  used on input line 312.
-(pdftex.def)             Requested size: 345.0pt x 340.74974pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--315
-
- []
-
-
 
 [28]
 
 [29]
+File: images/Feedback_Bas_3.png Graphic file (type png)
+<use images/Feedback_Bas_3.png>
+Package pdftex.def Info: images/Feedback_Bas_3.png  used on input line 320.
+(pdftex.def)             Requested size: 345.0pt x 342.9062pt.
+File: images/Feedback_Bas_4.png Graphic file (type png)
+<use images/Feedback_Bas_4.png>
+Package pdftex.def Info: images/Feedback_Bas_4.png  used on input line 321.
+(pdftex.def)             Requested size: 345.0pt x 340.74974pt.
 
-[30]
-File: images/Feedback_Bas_2.png Graphic file (type png)
-<use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 340.
-(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
-
-
-[31]
-File: images/Feedback_Bas_2.png Graphic file (type png)
-<use images/Feedback_Bas_2.png>
-Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 345.
-(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+Underfull \hbox (badness 10000) in paragraph at lines 319--324
 
  []
 
 
 
+[30]
+
+[31]
+
 [32]
+File: images/Feedback_Bas_2.png Graphic file (type png)
+<use images/Feedback_Bas_2.png>
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 349.
+(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
+
 
 [33]
+File: images/Feedback_Bas_2.png Graphic file (type png)
+<use images/Feedback_Bas_2.png>
+Package pdftex.def Info: images/Feedback_Bas_2.png  used on input line 354.
+(pdftex.def)             Requested size: 345.0pt x 391.9926pt.
 
-[34] (./PDR.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 353--356
+
+ []
+
+
+
+[34]
+
+[35]
+
+[36] (./PDR.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
@@ -665,10 +707,10 @@ Package rerunfilecheck Info: File `PDR.out' has not changed.
 (rerunfilecheck)             Checksum: A1743CC20AC39F28E9E968D3552123CE;6824.
  ) 
 Here is how much of TeX's memory you used:
- 8607 strings out of 473330
- 137939 string characters out of 5703871
+ 8618 strings out of 473330
+ 138267 string characters out of 5703871
  536242 words of memory out of 5000000
- 31597 multiletter control sequences out of 15000+600000
+ 31606 multiletter control sequences out of 15000+600000
  560838 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,723b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -682,10 +724,10 @@ tudio/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/User
 s/Gebruiker/Applications/texstudio/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr7.pfb><c:/Users/Gebruiker/Applications/texstudio/texlive/2024/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on PDR.pdf (35 pages, 1305172 bytes).
+Output written on PDR.pdf (37 pages, 1332178 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
- 377 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
- 390 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 463 PDF objects out of 1000 (max. 8388607)
+ 386 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 395 words of extra memory for PDF output out of 10000 (max. 10000000)
 
